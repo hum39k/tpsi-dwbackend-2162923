@@ -78,4 +78,18 @@ function drawTriangle(altura){
 
 function drawBox(altura, largura){
     
+    for (let i = 0; i < altura; i++){
+        count="";
+
+        for (let j = 0; j<largura; j++){
+            if(i == 0 || i== altura - 1 || j == 0 || j == largura -1)
+            count+="*";
+            else
+                count+= " ";
+        }
+        console.log(count)
+    }
+
 }
+
+drawBox(5,7);
