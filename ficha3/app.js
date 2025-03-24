@@ -25,6 +25,7 @@ function performDownload(start,update,complete){
 
 }
 
+const { arrayBuffer } = require("stream/consumers");
 // performDownload(start,update,complete);
 
 
@@ -49,4 +50,8 @@ var concatenated = ArrayUtils.concatenate(abc,array)
 
 
 
-console.log(reversed)
+// console.log(reversed)
+
+array.splice(1,1)
+
+console.log(array)

@@ -1,0 +1,39 @@
+{"data": [
+    {
+        "firstname" : "Pedro",
+        "lastname" : "Matos",
+        "profession" : "Student",
+        "age" : 22,
+        "gender" : "Male",
+        "id" : 1
+    },
+
+    {
+        "firstname" : "Ana",
+        "lastname" : "Silva",
+        "profession" : "Student",
+        "gender" : "Female",
+        "age" : 32,
+        "id" : 2
+    },
+
+    {
+        "firstname" : "Manuel",
+        "lastname" : "Coelho",
+        "profession" : "Student",
+        "gender" : "Male",
+        "age" : 29,
+        "id" : 3
+    },
+
+    {
+        "firstname" : "Sofia",
+        "lastname" : "Riva",
+        "profession" : "Student",
+        "gender" : "Female",
+        "age" : 24,
+        "id" : 4
+
+    }
+] 
+}
