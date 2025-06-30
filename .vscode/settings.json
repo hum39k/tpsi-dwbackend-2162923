@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "undefined/subscriptions/ac92f6b3-5b79-48f5-af61-810a15f671f6/resourceGroups/appsvc_linux_eastus/providers/Microsoft.Web/sites/ficha10-azure",
+    "appService.deploySubpath": "ficha10"
+}
